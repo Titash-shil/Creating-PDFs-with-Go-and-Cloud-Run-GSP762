@@ -18,7 +18,7 @@ git clone https://github.com/Deleplace/pet-theory.git
 
 cd pet-theory/lab03
 
-curl -LO https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/server.go
+curl -LO https://raw.githubusercontent.com/Titash-shil/Creating-PDFs-with-Go-and-Cloud-Run-GSP762/refs/heads/main/GSP762_SERVER.go
 
 go build -o server
 
